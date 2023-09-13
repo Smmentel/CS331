@@ -1,4 +1,5 @@
 # CS331  Computer Organization & Assembly Language
+We did not always submit electronically, I have provided all work that I completed that is electronically accessible. <br />
 This course introduces low-level computer architecture and its relationship to assembly language
 programming. Topics include number systems, Boolean algebra, logic gates, simplification of Boolean
 functions, combinational logic, sequential logic, machine organization, assembly language programming, the
